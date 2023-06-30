@@ -1,0 +1,1 @@
+I became so engrossed in the project that I forgot to commit at the various stages. I had to research Math.random(), and the while_loop I'm happy with it so far.
